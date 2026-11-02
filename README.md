@@ -55,3 +55,4 @@ Chạy bộ test bằng `requests` (khi server đang chạy): `python test_api.p
 
 ## Video demo
 
+`https://drive.google.com/file/d/1QqXOYoRwWm9gAw93SMWnNaWys8zNp8RM/view?usp=drive_link`
